@@ -9,6 +9,7 @@ I first created logins and usernames on the switches as well as created the corr
 <img width="927" height="936" alt="Image" src="https://github.com/user-attachments/assets/af450249-38a1-45e8-ba32-64ba68095e33" />
 
 
+
 - Then I enable portfast on all ports connected to end host for immediate connectivity as well as Port Security so that if an unknown MAC Address connects to that port then the port will shutdown. 
 - Also Configured Arp inspection for each of the Vlans on each switch in both buildings
 <img width="883" height="346" alt="Image" src="https://github.com/user-attachments/assets/15ad4893-aba2-422f-8517-2ddada43eff7" />
@@ -17,6 +18,7 @@ I first created logins and usernames on the switches as well as created the corr
 
 <img width="879" height="407" alt="Image" src="https://github.com/user-attachments/assets/0199f409-780e-4e23-9de8-188b1ba7447d" />
  
+
 
 
 - In this part of the project i have created a etherchannel and trunk link between each Layer 2 and Layer 3 switch
@@ -37,6 +39,7 @@ I first created logins and usernames on the switches as well as created the corr
 <img width="700" height="276" alt="Image" src="https://github.com/user-attachments/assets/4c083a4f-f2e5-4bf7-9076-062571f255c7" /> 
 
 
+
 - I have created more etherchannel and trunk links connecting all Four switches in each building for redundancy and routing/forwarding
 <img width="632" height="223" alt="Image" src="https://github.com/user-attachments/assets/e29dff9c-415c-4c1c-8379-b17be05b64e4" />
 
@@ -47,6 +50,7 @@ I first created logins and usernames on the switches as well as created the corr
 <img width="796" height="627" alt="Image" src="https://github.com/user-attachments/assets/d3c9e581-84d5-4fd4-beab-f10306426363" />
 
 <img width="610" height="445" alt="Image" src="https://github.com/user-attachments/assets/3189a7b8-97e5-4ab7-8041-b5142b74c023" />
+
 
 
 - Configured  both layer 3 switches with ethertchannels/trunks as well as coonfigured SVIs  so they can route 
@@ -60,6 +64,7 @@ I first created logins and usernames on the switches as well as created the corr
 <img width="864" height="527" alt="Image" src="https://github.com/user-attachments/assets/7cbe39a3-8005-40b9-96af-0cb4baeb5dae" />
 
 <img width="885" height="431" alt="Image" src="https://github.com/user-attachments/assets/125599ea-33c6-4267-adcf-48eda18d2641" />
+
 
 
 - Within my project i have no configured HSRP for gateway redundancy on the Layer 3 switches
