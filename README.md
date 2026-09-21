@@ -40,6 +40,7 @@ I first created logins and usernames on the switches as well as created the corr
 
 
 
+
 - I have created more etherchannel and trunk links connecting all Four switches in each building for redundancy and routing/forwarding
 <img width="632" height="223" alt="Image" src="https://github.com/user-attachments/assets/e29dff9c-415c-4c1c-8379-b17be05b64e4" />
 
