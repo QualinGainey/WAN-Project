@@ -12,6 +12,7 @@ The next phase will connect the two buildings through a site-to-site IPsec tunne
 
 > Cisco Packet Tracer is required to open the `.pkt` file.
 
+
 ## Project Status
 
 **In progress**
