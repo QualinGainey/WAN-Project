@@ -11,7 +11,7 @@ The next phase will connect the two buildings through a site-to-site IPsec tunne
 [Download the Redundant Multi-Site WAN lab](./Redundant-Multi-Site-WAN.pkt)
 
 > Cisco Packet Tracer is required to open the `.pkt` file.
-> 
+
 ## Project Status
 
 **In progress**
