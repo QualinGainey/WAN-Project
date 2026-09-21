@@ -5,6 +5,7 @@
 This Cisco Packet Tracer project simulates a WAN connecting two buildings. Each building uses redundant switching, gateway redundancy, VLAN segmentation, EtherChannel, trunking, and Layer 3 switching.
 
 The next phase will connect the two buildings through a site-to-site IPsec tunnel.
+<img width="1690" height="569" alt="image" src="https://github.com/user-attachments/assets/5256ae6c-1fd2-4e97-8265-cdc21ebd7e54" />
 
 ## Project Status
 
